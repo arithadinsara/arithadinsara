@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aritha Dinsara
 - 👀 I’m interested in IOT and web development
-- 🌱 I’m currently learning Computing and IOT and robotics
+- 🌱 I’m currently learning  IOT based projects and robotics technology
 - 💞️ I’m looking to collaborate on Robotic Engineering
 
 <!---
