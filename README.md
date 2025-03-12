@@ -15,8 +15,7 @@
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **arithadinsara123@gmail.com**
-  
-- ⚡ Fun fact **Call me as KD**
+
 
 </td>
 <td width="50%" align="center">
