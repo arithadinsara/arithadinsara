@@ -4,12 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arithadinsara&label=Profile%20views&color=0e75b6&style=flat" alt="arithadinsara" /> </p>
 
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+How+Are+You♥++;Embedded+Systems+Developer;Computer+Science+Undergraduate;CTF+Newbie;IOT+(Internet+Of+Things)+Researcher;Interned+In+Japan♥">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=00FFFF&size=30&center=true&vCenter=true&width=700&height=100&lines=Hello+How+Are+You♥++;I+am+an+Embedded+Systems+Developer;Robotics+Learner;Automation+Intern;IOT+(Internet+of+Things)+Researcher;Interned+in+Japan♥">
 </a>
+
 
 
 
