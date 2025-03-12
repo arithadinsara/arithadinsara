@@ -6,8 +6,9 @@
 <table>
     <td>
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=00FFFF&size=30&center=true&vCenter=true&width=700&height=100&lines=Hello+How+Are+You♥++;I+am+an+Embedded+Systems+Developer;Robotics+Learner;Automation+Intern;IOT+(Internet+of+Things)+Researcher;Interned+in+Japan♥">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=00FFFF&size=30&center=true&vCenter=true&width=700&height=100&lines=Hello+How+Are+You♥++;I+am+an+Embedded+Systems+Developer;Robotics+Learner;Automation+Intern;IOT+(Internet+of+Things)+Researcher;Interned+in+Japan+🇯🇵">
 </a>
+
 
 
 
