@@ -4,24 +4,30 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arithadinsara&label=Profile%20views&color=0e75b6&style=flat" alt="arithadinsara" /> </p>
 
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **MERN**
 
-- 🔭 I’m currently working on [Fingerprint Attendance System](https://github.com/arithadinsara/Fingerprint-Based-Student-Attendance-System-)
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-- 🌱 I’m currently learning **Undergraduate**
+- 💬 Ask me about **Java**
 
-- 👯 I’m looking to collaborate on **Web developmentand IOT based projectsased Projects**
+- 📫 How to reach me **kaveen.dinethma@gmail.com**
+  
+- ⚡ Fun fact **Call me as KD**
 
-- 🤝 I’m looking for help with **Robotic and automation projects**
+</td>
+<td width="50%" align="center">
 
-- 👨‍💻 All of my projects are available at [https://arithadinsara.netlify.app/](https://arithadinsara.netlify.app/)
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
-- 📝 I regularly write articles on [https://arithadinsara.netlify.app/](https://arithadinsara.netlify.app/)
+  
+  </td>
+</tr>
+</table>
 
-- 💬 Ask me about **Java, python**
-
-- 📫 How to reach me **arithadinsara@123gmail.com**
-
-- 📄 Know about my experiences [https://arithadinsara.netlify.app/](https://arithadinsara.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
