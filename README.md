@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aritha Dinsara</h1>
 <h3 align="center">
     A passionate IT undergraduate from Sri Lanka 
-    <img src="https://upload.wikimedia.org/wikipedia/en/1/11/Flag_of_Sri_Lanka.svg" alt="Sri Lanka Flag" width="30">, 
+    <img src="https://th.bing.com/th/id/OIP.pgnqvzCsOctvqKrlL-Ob8QHaDZ?rs=1&pid=ImgDetMain" alt="Sri Lanka Flag" width="30">, 
     Recently Completed Internship in Japan 
     <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Japan Flag" width="30">
 </h3>
