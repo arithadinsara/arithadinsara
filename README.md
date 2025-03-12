@@ -1,4 +1,4 @@
-erer<h1 align="center">Hi 👋, I'm Aritha Dinsara</h1>
+<h1 align="center">Hi 👋, I'm Aritha Dinsara</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arithadinsara&label=Profile%20views&color=0e75b6&style=flat" alt="arithadinsara" /> </p>
@@ -8,13 +8,13 @@ erer<h1 align="center">Hi 👋, I'm Aritha Dinsara</h1>
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Robotics and IOT**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **University of Greenwich,United Kingdom**
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
+- 📫 How to reach me **arithadinsara123@gmail.com**
   
 - ⚡ Fun fact **Call me as KD**
 
