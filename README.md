@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aritha Dinsara</h1>
-<h3 align="center">A passionate IT undergraduate from Sri Lanka, Recently Completed Internship in Japan</h3>
+<h3 align="center">
+    A passionate IT undergraduate from Sri Lanka 
+    <img src="https://upload.wikimedia.org/wikipedia/en/1/11/Flag_of_Sri_Lanka.svg" alt="Sri Lanka Flag" width="30">, 
+    Recently Completed Internship in Japan 
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Japan Flag" width="30">
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arithadinsara&label=Profile%20views&color=0e75b6&style=flat" alt="arithadinsara" /> </p>
 
